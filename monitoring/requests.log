@@ -1,0 +1,5 @@
+{"timestamp": "2026-05-06T01:38:03.732978+00:00", "method": "GET", "endpoint": "/", "status_code": 200, "duration_ms": 1.47}
+{"timestamp": "2026-05-06T01:38:14.049900+00:00", "method": "GET", "endpoint": "/metrics", "status_code": 200, "duration_ms": 0.66}
+{"timestamp": "2026-05-06T01:38:14.287854+00:00", "method": "POST", "endpoint": "/predict", "status_code": 422, "duration_ms": 1.0}
+{"timestamp": "2026-05-06T01:38:31.430159+00:00", "method": "POST", "endpoint": "/predict", "status_code": 422, "duration_ms": 0.48}
+{"timestamp": "2026-05-06T01:38:56.090272+00:00", "method": "POST", "endpoint": "/predict", "status_code": 200, "duration_ms": 129.42}

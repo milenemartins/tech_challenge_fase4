@@ -1,0 +1,20 @@
+{
+  "symbol":"DIS",
+  "start_date":"2018-01-01",
+  "end_date":"2024-07-20",
+  "window_size":60,
+  "train_size":1317,
+  "test_size":330,
+  "train_ratio":0.8,
+  "scaler":"MinMaxScaler(0,1)",
+  "X_train_shape":[
+    1257,
+    60,
+    1
+  ],
+  "X_test_shape":[
+    330,
+    60,
+    1
+  ]
+}

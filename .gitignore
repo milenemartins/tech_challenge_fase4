@@ -1,0 +1,38 @@
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Modelo treinado (arquivo grande)
+model/*.keras
+model/*.h5
+
+# Dados brutos e processados (arquivos grandes)
+data/*.npy
+data/*.csv
+data/*.pkl
+
+# Imagens geradas
+data/*.png
+
+# IDEs
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Variáveis de ambiente
+.env

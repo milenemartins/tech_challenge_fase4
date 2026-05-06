@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.git/
+.gitignore
+notebooks/
+*.pdf
+data/*.npy
+data/*.csv
+data/*.png
+model/*.keras
+model/*.h5
+model/*.npy
+model/*.png
+monitoring/*.log

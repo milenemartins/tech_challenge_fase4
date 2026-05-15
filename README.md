@@ -121,7 +121,7 @@ O modelo é avaliado com as seguintes métricas:
 
 - [x] Código-fonte do modelo LSTM
 - [x] Documentação do projeto (este README)
-- [ ] Scripts Docker para deploy
+- [x] Scripts Docker para deploy (`Dockerfile` + `docker-compose.yml`)
 - [ ] Link da API em produção
 - [ ] Vídeo demonstrando o funcionamento
 

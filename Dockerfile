@@ -12,6 +12,8 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY api/     ./api/
 COPY src/     ./src/
+COPY model/   ./model/
+COPY data/    ./data/
 
 ENV TF_CPP_MIN_LOG_LEVEL=3
 ENV PYTHONUNBUFFERED=1

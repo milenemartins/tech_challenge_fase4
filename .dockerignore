@@ -5,11 +5,13 @@ __pycache__/
 .gitignore
 notebooks/
 *.pdf
+# dados de treino — não necessários em produção
 data/*.npy
 data/*.csv
 data/*.png
-model/*.keras
-model/*.h5
+# artefatos de avaliação — não necessários em produção
 model/*.npy
 model/*.png
+model/*.h5
+# logs não entram na imagem
 monitoring/*.log
